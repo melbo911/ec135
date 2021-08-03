@@ -37,5 +37,5 @@ simply copy the file to your "FlyWithLua/Scripts" folder and reload the aircraft
 Uninstall or Disable
 ====================
 
-simply delete the script or rename it with an ending other than ".lua" ( i.e. ec135_as_mod.lua.txt ) 
+simply delete the script or rename it with an ending other than ".lua" ( i.e. ec135_as_mod.lua.txt ) and reload all scripts in FlyWithLua
 
